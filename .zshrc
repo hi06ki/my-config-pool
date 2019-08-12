@@ -1,5 +1,3 @@
-# Created by newuser for 5.3.1
-
 # Prompt Settings
 autoload -Uz colors
 colors
@@ -28,6 +26,6 @@ alias python='python3'
 ## PREREQUISITE: Need to install lolcat
 alias cat='lolcat'
 
-# Set option for rm
+## Set option for rm
 alias rm='rm -Irv'
 
